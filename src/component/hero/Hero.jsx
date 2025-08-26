@@ -12,7 +12,7 @@ const textVariant = (num) => {
     visible: {
       width: "0%",
       transition: {
-        duration: 0.7,
+        duration: 0.8,
         delay: num,
         ease: "easeInOut"
       }
